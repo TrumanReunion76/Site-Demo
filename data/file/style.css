@@ -3,7 +3,7 @@ background-color: black;
 }
 
 .bg-image{
-    background-image: url('data/img/Home.jpg'); /*add leading slash to filepath for local machine*/
+    background-image: url('/data/img/Home.png'); /*add leading slash to filepath for local machine*/
     background-size: contain;
     background-attachment: scroll;
     background-repeat: no-repeat;
