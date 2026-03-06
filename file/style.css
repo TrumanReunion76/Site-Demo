@@ -1,0 +1,96 @@
+body{
+background-color: black;
+}
+
+.bg-image{
+    background-image: url('../img/Home.png'); /*deployment path*/
+    /*background-image: url('/data/img/Home.png'); /*local path testing for dev*/
+    background-size: contain;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200vh;
+
+.faq-link{
+    position: absolute;
+    top: 90px;
+    left: 1000px;
+    width: 150px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.contact-link{
+    position: absolute;
+    top: 90px;
+    left: 1175px;
+    width: 180px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.contact-link{
+    position: absolute;
+    top: 90px;
+    left: 1175px;
+    width: 180px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.ticket-link{
+    position: absolute;
+    top: 750px;
+    left: 410px;
+    width: 515px;
+    height: 150px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.sponser-link{
+    position: absolute;
+    top: 905px;
+    left: 410px;
+    width: 515px;
+    height: 150px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.contact2-link{
+    position: absolute;
+    top: 1700px;
+    left: 410px;
+    width: 525px;
+    height: 130px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.classmate-link{
+    position: absolute;
+    top: 1700px;
+    left: 960px;
+    width: 530px;
+    height: 130px;
+    background-color: transparent;
+    cursor: pointer;
+    text-indent: -9999px;
+    overflow: hidden;
+}
