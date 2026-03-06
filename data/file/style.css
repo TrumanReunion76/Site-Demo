@@ -3,7 +3,8 @@ background-color: black;
 }
 
 .bg-image{
-    background-image: url('../img/Home.png'); /*add leading slash to filepath for local machine*/
+    background-image: url('../img/Home.png'); /*deployment path*/
+    /*background-image: url('/data/img/Home.png'); /*local path testing for dev*/
     background-size: contain;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -51,7 +52,7 @@ background-color: black;
     top: 750px;
     left: 410px;
     width: 515px;
-    height: 180px;
+    height: 150px;
     background-color: transparent;
     cursor: pointer;
     text-indent: -9999px;
@@ -60,10 +61,10 @@ background-color: black;
 
 .sponser-link{
     position: absolute;
-    top: 750px;
-    left: 965px;
-    width: 525px;
-    height: 180px;
+    top: 905px;
+    left: 410px;
+    width: 515px;
+    height: 150px;
     background-color: transparent;
     cursor: pointer;
     text-indent: -9999px;
@@ -92,8 +93,4 @@ background-color: black;
     cursor: pointer;
     text-indent: -9999px;
     overflow: hidden;
-
 }
-
-
-
